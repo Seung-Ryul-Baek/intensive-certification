@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "certification"
+    _PROJECT_NAME: "edu-certification"
 
 phases:
   install:
